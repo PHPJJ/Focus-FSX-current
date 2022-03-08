@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SendKeys">
+</Property><Property Name="Solution File" Value="I:\Aviation Consolidation\Cockpit\SendKeys\SendKeys.sln">
+</Property><Property Name="User Options File" Value="I:\Aviation Consolidation\Cockpit\SendKeys\SendKeys.suo">
+</Property><Property Name="Date" Value="dinsdag 30 september 2008">
+</Property><Property Name="Time" Value="0:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SendKeys.sln" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SendKeys.suo" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys.suo">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeys.csproj" Description="Project file successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\SendKeys.csproj">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\NativeWin32.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\NativeWin32.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeysToApps.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\SendKeysToApps.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeysToApps.Designer.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\SendKeysToApps.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Program.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Program.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Properties\AssemblyInfo.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Properties\Resources.Designer.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Properties\Settings.Designer.cs" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Properties\Settings.settings" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeysToApps.resx" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\SendKeysToApps.resx">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\Properties\Resources.resx" Description="File successfully backed up as I:\Aviation Consolidation\Cockpit\SendKeys\Backup\SendKeys\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeys.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SendKeys" Source="SendKeys\SendKeys.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SendKeys.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SendKeys.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SendKeys" Source="SendKeys\SendKeys.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

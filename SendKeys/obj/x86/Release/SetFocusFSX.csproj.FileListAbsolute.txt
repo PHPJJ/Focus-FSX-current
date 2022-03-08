@@ -1,0 +1,17 @@
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.csprojResolveAssemblyReference.cache
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.Properties.Resources.resources
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.csproj.GenerateResource.Cache
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\bin\x86\Release\SetFocusFSX.exe
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\bin\x86\Release\SetFocusFSX.pdb
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.exe
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.pdb
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\bin\x86\Release\SetFocusFSX.exe.config
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX\SendKeys\obj\x86\Release\SetFocusFSX.SetFocusFSX.resources
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\bin\x86\Release\SetFocusFSX.exe.config
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\obj\x86\Release\SetFocusFSX.exe
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\obj\x86\Release\SetFocusFSX.pdb
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\bin\x86\Release\SetFocusFSX.exe
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\bin\x86\Release\SetFocusFSX.pdb
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\obj\x86\Release\SetFocusFSX.SetFocusFSX.resources
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\obj\x86\Release\SetFocusFSX.Properties.Resources.resources
+D:\Users\Peterj\Desktop\FSIO_DEV\Focus FSX current\SendKeys\obj\x86\Release\SetFocusFSX.csproj.GenerateResource.Cache
