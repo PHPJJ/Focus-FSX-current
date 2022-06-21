@@ -1,2 +1,0 @@
-obj\Release\SendKeys.exe
-obj\Release\SendKeys.pdb
